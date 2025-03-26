@@ -1,0 +1,4 @@
+[core]
+    remote = dagshubstorage
+['remote "dagshubstorage"']
+    url = https://dagshub.com/moustapha.sy/mlops-project.dvc
